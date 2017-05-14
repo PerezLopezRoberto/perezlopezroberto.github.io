@@ -1,0 +1,228 @@
+html,body{
+  margin: 0px;
+  height: 100%;
+}
+
+.body_color{
+  background-color: #fafafa;
+}
+
+@font-face {
+  font-family: "Light";
+  src: url("../herramienta/Light.ttf");
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url("../herramienta/Gotham.otf");
+}
+
+@font-face {
+  font-family: "Break";
+  src: url("../herramienta/Break Regular.ttf");
+}
+
+@font-face {
+  font-family: "Sofia";
+  src: url("../herramienta/sofia.otf");
+}
+
+.titulo{
+  display: table-cell;
+  font-family: "Gotham";
+  font-weight: normal;
+  vertical-align: middle;
+  color: #F2EDD8;
+  text-shadow: 6px 6px 0px #5D4C46;
+  font-size: 980%;
+}
+
+.titulo_{
+  display: table-cell;
+  font-family: "Break";
+  font-weight: normal;
+  vertical-align: middle;
+  color: white;
+  font-size: 980%;
+}
+
+.contenedor-presentacion{
+  display: table;
+  width: 100%;
+  height: 100%;
+  background-image: url("../herramienta/qw.jpg");
+  overflow:hidden;
+  text-align: center;
+}
+
+.contenedor-presentacion_{
+  display: table;
+  width: 100%;
+  height: 100%;
+  background-image: url("../herramienta/reloj.jpeg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  overflow:hidden;
+  text-align: center;
+}
+
+.contenedor-presentacion2_{
+  display: table;
+  width: 100%;
+  height: 100%;
+  background-image: url("../herramienta/tren.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  overflow:hidden;
+  text-align: center;
+}
+
+.texto{
+  font-family: "Light";
+  font-weight: normal;
+  text-align: center;
+  color: #717f86;
+  font-size: 110%;
+}
+
+.texto_{
+  font-family: "Sofia";
+  text-align: justify;
+  color: grey;
+  font-size: 110%;
+}
+
+.texto2_{
+  font-family: "Sofia";
+  text-align: justify;
+  color: white;
+  font-size: 110%;
+}
+
+.subtitulo{
+  font-family: "Gotham";
+  font-weight: normal;
+  text-align: center;
+  color: #384047;
+  font-size: 200%;
+}
+
+.subtitulo_{
+  margin-top: 5%;
+  margin-bottom: 0%;
+  font-family: "Sofia";
+  text-align: center;
+  color: black;
+  font-size: 210%
+}
+
+.subtitulo2_{
+  margin-top: 5%;
+  margin-bottom: 0%;
+  font-family: "Sofia";
+  text-align: center;
+  color: white;
+  font-size: 210%
+}
+
+.imagen{
+  height: 40%;
+  width: 40%;
+  float: left;
+}
+
+.imagen_{
+  height: 40%;
+  width: 40%;
+  left: 50%;
+  float: left;
+  margin-top: 10%;
+}
+
+.imagen2{
+  float: right;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  height: 40%;
+  width: 40%;
+}
+
+.subtexto{
+  float: right;
+  width: 55%;
+  font-size: 120%;
+  color: #384047;
+  font-family: "Gotham";
+  font-weight: normal;
+}
+
+.subtexto2{
+  margin-top: 10%;
+  float: right;
+  width: 50%;
+  font-size: 120%;
+  color: #384047;
+  font-family: "Gotham";
+  font-weight: normal;
+}
+
+.contenido{
+  width: 60%;
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+.contenido_{
+  width: 45%;
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+.parrafo{
+  width: 55%;
+  float: right;
+  font-family: "Light";
+  color: #384047;
+  margin: 0px;
+}
+
+.div_prin_{
+  width: 45%;
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+.div_prin2_{
+  width: 100%;
+  background-image: url("../herramienta/diccionario.png");
+  background-size: 100%;
+  overflow: hidden;
+}
+
+.div_sec{
+  width: 45%;
+  margin: 0px auto;
+}
+
+.parrafo2{
+  width: 50%;
+  float: right;
+  font-family: "Light";
+  color: #384047;
+  margin: 0px;
+}
+
+.vinculo_{
+  font-family: "Sofia";
+  text-align: center;
+  text-decoration:none;
+  color: black;
+  font-size: 180%;
+}
+
+.glosario_{
+  font-family: "Sofia";
+  text-align: justify;
+  color: white;
+  font-size: 150%;
+}
