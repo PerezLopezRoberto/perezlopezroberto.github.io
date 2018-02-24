@@ -1,0 +1,22 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0639412, 
+          "lon": -96.7250353
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/PerezLopezRoberto/perezlopezroberto.github.io/blob/master/28407701_1699608563429757_1314285319_o.jpg"
+      }, 
+      "id": 2, 
+      "text": { 
+        "title": "Casa de las Artesanías"
+      }
+    }
+  ], 
+  "layer": "Artesanías"
+}
