@@ -1,0 +1,122 @@
+#search1{
+  width: 32%;
+  height: 315px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #212F3D;
+  margin: 20px auto;
+  box-shadow: 7px 10px 28px -5px rgba(0,0,0,0.75);
+}
+
+#search,#sear{
+  width: 82%;
+}
+
+.carousel {
+  width: auto;
+}
+
+#contar{
+  width: 82%;
+}
+
+
+#texto{
+  margin-left: 52px;
+  clear: left;
+}
+
+#texto1{
+  margin-right: 21px;
+  margin-left: 15px;
+  color: black;
+  text-align: justify;
+}
+
+#map {
+ height: 450px;
+ width: 93%;
+ margin: 30px;
+}
+
+.encap{
+  margin-right: 21px;
+  margin-left: 15px;
+  overflow: hidden;
+}
+
+#pintar{
+  background-color: white;
+}
+
+.pintar{
+  background-color: white;
+}
+
+.carousel {
+  height: 260px;
+}
+
+#imagen{
+  margin-left: 52px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 35px;
+}
+
+#button{
+  margin-top: 15%;
+}
+
+.res {
+    width: 72%;
+    margin: 0px auto;
+    overflow: hidden;
+    background-color: #212F3D;
+    box-shadow: 7px 10px 28px -5px rgba(0,0,0,0.75);
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.contenido1{
+  height: 90%;
+  margin: 10px auto;
+	margin-left: 10px;
+	margin-right: 10px;
+  overflow: hidden;
+	background-color: #212F3D;
+	border: solid;
+	border-color: white;
+}
+
+.colr{
+  background-color: #212F3D;
+}
+
+.contenido2{
+  height: 90%;
+  margin: 25px auto;
+	margin-left: 25px;
+	margin-right: 25px;
+  overflow: hidden;
+	background-color: #212F3D;
+	border: solid;
+	border-color: white;
+}
+
+.aligning{
+  display:block;
+margin:auto;
+}
+#imagebutton{
+  position: relative;
+  left: -10px;
+  top:-8px;
+  margin-bottom: 15px;
+}
+
+body{
+  margin: 0px;
+  background-image: url(pattern.png);
+}
